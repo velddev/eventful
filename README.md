@@ -1,4 +1,4 @@
 ﻿# eventful
 ✨ Events in C++
 
-CMake help from [VZoutman](https://github.com/vzoutman)
+CMake help from [Viktor Zoutman](https://vzout.com)
